@@ -1,3 +1,4 @@
+<h4><a href="index.php">Return</a></h4>
 <?php
 echo '<h1>Iterators</h1>';
 echo '
